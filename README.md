@@ -108,6 +108,5 @@ This project is licensed under the MIT License.
 [![GitHub issues](https://img.shields.io/github/issues/illiiaa/ChatGPT-NextJs)](https://github.com/illiiaa/ChatGPT-NextJs/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/illiiaa/ChatGPT-NextJs)](https://github.com/illiiaa/ChatGPT-NextJs/pulls)
 [![GitHub license](https://img.shields.io/github/license/illiiaa/ChatGPT-NextJs)](https://github.com/illiiaa/ChatGPT-NextJs/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/illiiaa?style=social)](https://twitter.com/illiiaa)
 
 Made with 💙
